@@ -21,7 +21,7 @@ Como podemos ver, isto é uma simples função de JavaScript que tem único dife
     ....
 
     <body>
-      <TituloDaPagina>
+      <TituloDaPagina />
     </body>
 <head>
 ```
